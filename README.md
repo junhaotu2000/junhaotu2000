@@ -21,7 +21,7 @@
 In my repositories, you'll find a variety of projects related to robotics and mechanical engineering. Each project is a step towards my goal of contributing to the field of robotics. Feel free to explore, fork, and contribute. Your insights and contributions are always welcome!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/junhaotu2000/junhaotu2000/output/ithub-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/junhaotu2000/junhaotu2000/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/junhaotu2000/junhaotu2000/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/junhaotu2000/junhaotu2000/output/github-contribution-grid-snake.svg">
 </picture>
