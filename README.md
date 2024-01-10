@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my repos
 
-<!--
-**junhaotu2000/junhaotu2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🎓 I'm a Master's student at the University of Michigan, specializing in Mechanical Engineering and Robotics. My primary interests lie in the fascinating fields of robot perception and motion planning.
 
-Here are some ideas to get you started:
+#### A little about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Currently Working On:** I am deeply immersed in projects that focus on enhancing the capabilities of robots through advanced perception and intelligent motion planning algorithms. My goal is to contribute to the development of more intuitive and efficient robotic systems.
+  
+- 👯 **Looking to Collaborate:** I am open to collaborations, especially on projects that push the boundaries of what's possible in robotics. Whether it's developing software for autonomous systems or researching new methods of robot-environment interaction, I'm here for it!
+
+- 🤔 **Seeking Help With:** I am always looking for guidance and advice from experienced professionals in the field of robotics and AI. If you have insights or want to share your experiences, I'd be thrilled to learn from you.
+  
+- 📫 **How to Reach Me:** The best way to get in touch with me is through my email: junhaotu@umich.edu.
+
+- 😄 **Pronouns:** He/Him
+
+- ⚡ **Fun Fact:** When I'm not delving into the world of robots, I enjoy hiking and exploring the outdoors. There's nothing quite like finding parallels between the natural world and the mechanical systems I study!
+
+#### My GitHub Repositories
+
+In my repositories, you'll find a variety of projects related to robotics and mechanical engineering. Each project is a step towards my goal of contributing to the field of robotics. Feel free to explore, fork, and contribute. Your insights and contributions are always welcome!
